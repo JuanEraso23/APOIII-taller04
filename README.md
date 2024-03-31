@@ -3,7 +3,7 @@
 Curso de Algoritmos y Programación III.
 
 ## Descripción
-Taller 0.
+Taller 04.
 
 ...
 
